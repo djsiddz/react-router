@@ -15,7 +15,7 @@ The rest is just there for your information and deeper understanding. Let's get 
 
 ## Setup
 
-<docs-info>If you're not going to follow along in your own app, you can skip this section</docs-info>
+<docs-info>If you're going to follow along in your existing app, you can skip this section</docs-info>
 
 We'll be using [Vite][vite] for our bundler and dev server for this tutorial. You'll need [Node.js][node] installed for the `npm` command line tool.
 
